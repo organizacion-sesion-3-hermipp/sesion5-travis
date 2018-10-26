@@ -4,3 +4,4 @@ php:
 before script:
 	- composer install
 script: phpunit tests
+
